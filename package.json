@@ -17,8 +17,8 @@
 		"react-dom": "^18"
 	},
 	"engines": {
-		"node": "20.11.0",
-		"npm": "10.2.4"
+		"node": "v20.11.0",
+		"npm": "10.4.4"
 	},
 	"devDependencies": {
 		"@types/node": "^20",
